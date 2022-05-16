@@ -1,4 +1,0 @@
-name = "beerlog"
-
-[database]
-url = "sqlite:///beerlog2.db"
